@@ -1,3 +1,5 @@
+![Portada de mi repositorio](ats-genius-resume-analizer.png)
+
 # ATS Genius: Análisis Inteligente de Currículum Vitae con Gemini 📄🤖
 
 Una aplicación web desarrollada con Gradio que analiza currículums vitae (CV) en formato PDF utilizando la API de Google Gemini, ofreciendo análisis de compatibilidad con descripciones de puestos específicos y evaluación general basada en sistemas ATS (Applicant Tracking System).

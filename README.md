@@ -22,7 +22,7 @@ Habilidades: Duras y blandas.
 1. Clona este repositorio:
    ```bash
    git clone https://github.com/luisfillth/ats-genius-resume-analizer.git
-   cd ats-resume-system
+   cd ats-genius-resume-analizer
    ```
 
 2. Instala las dependencias requeridas:

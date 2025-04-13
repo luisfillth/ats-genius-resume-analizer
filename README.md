@@ -1,4 +1,4 @@
-![Portada de mi repositorio](ats-genius-resume-analizer.png)
+![Texto Alternativo](ats-genius-resume-analizer.png)
 
 # ATS Genius: Análisis Inteligente de Currículum Vitae con Gemini 📄🤖
 
